@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Noch ein Beitrag.!"
+title:  "Noch ein Beitrag!"
 date:   2018-04-05 
 categories: Test
 ---
